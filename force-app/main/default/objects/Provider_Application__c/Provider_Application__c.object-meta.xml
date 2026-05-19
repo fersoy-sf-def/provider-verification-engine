@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObject xmlns="http://soap.sforce.com/2006/04/metadata">
+    <deploymentStatus>Deployed</deploymentStatus>
+    <enableActivities>true</enableActivities>
+    <enableHistory>true</enableHistory>
+    <enableReports>true</enableReports>
+    <label>Provider Application</label>
+    <nameField>
+        <displayFormat>PA-{00000}</displayFormat>
+        <label>Provider Application Name</label>
+        <type>AutoNumber</type>
+    </nameField>
+    <pluralLabel>Provider Applications</pluralLabel>
+    <sharingModel>ReadWrite</sharingModel>
+    <visibility>Public</visibility>
+</CustomObject>
